@@ -1,0 +1,7 @@
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\OpenGL\x64\Debug\OpenGL.exe
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Okno lab 2\x64\Debug\OpenGL.exe
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Trójkąt lab 3 dobry\x64\Debug\Lab_3_Trojkat.exe
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Lab 3 Trójkąt\x64\Debug\Lab_3_Trojkat.exe
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Lab 4 Trójkąt_cd\x64\Debug\Lab_3_Trojkat.exe
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Lab 5 Trójkąt kolorowy\x64\Debug\Lab_5_Trojkat_kolor.exe
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Sześcian3D\x64\Debug\Szescian3D.exe

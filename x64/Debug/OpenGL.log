@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab_3_Trojkat.vcxproj, Lab_5_Trojkat_kolor.vcxproj, OpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  szescian.cpp
+C:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Biblioteki\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+  OpenGL.vcxproj -> C:\Moje dokumenty\Studia\Semestr 4\Grafika komputerowa\Projekt\Sześcian3D\x64\Debug\Szescian3D.exe
